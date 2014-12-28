@@ -1,0 +1,12 @@
+C:\Users\Kareem\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Find.resources
+C:\Users\Kareem\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Replace.resources
+C:\Users\Kareem\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Assimbio.csproj.GenerateResource.Cache
+C:\Users\Kareem\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Assimbio.exe.config
+C:\Users\Kareem\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Assimbio.exe
+C:\Users\Kareem\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Assimbio.pdb
+C:\Users\Kareem\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Assimbio.csprojResolveAssemblyReference.cache
+C:\Users\Kareem\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Assimbio.Properties.Resources.resources
+C:\Users\Kareem\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Assimbio.exe
+C:\Users\Kareem\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Assimbio.pdb
+C:\Users\Kareem\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Assimbio.resources
+C:\Users\Kareem\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Assimbio.Form1.resources
